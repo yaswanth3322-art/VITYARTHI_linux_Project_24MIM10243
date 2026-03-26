@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # Script 3: Disk and Permission Auditor
-# Author: Ajinkya Wasnik
+# Author: K Bala Yaswanth
 # Course: Open Source Software
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
